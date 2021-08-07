@@ -17,6 +17,6 @@ We open it in Pycharm Community and start the program by selecting the Run optio
 
 # 4 - How Can I Play?
 
-First, a Turkish word will appear in front of you. Three seconds after the Turkish word comes out, an English word will appear. At the end of the game, a csv file will be created showing which words you know. Have fun :--)
+First, a Turkish word will appear in front of you. Three seconds after the Turkish word is out, an English word will appear. If the Turkish word is the equivalent of the English word that comes out three seconds later, you have to press the cross button if not the confirmation button. At the end of the game, a csv file will be created showing which words you know. Have fun :--)
 
 ![alt text](https://raw.githubusercontent.com/BahadirDogrusoz/Flash-Card/main/Adl%C4%B1.png)
